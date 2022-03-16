@@ -1,0 +1,4 @@
+.project
+.settings/
+project_growth/.grunt/
+test/logs/
